@@ -1,2 +1,2 @@
 # SpiderExercise
-Exercises fro spider.
+Exercises for spider.
